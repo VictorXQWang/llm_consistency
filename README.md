@@ -19,9 +19,6 @@ Available at SSRN: [https://ssrn.com/abstract=5189069](https://ssrn.com/abstract
 ---
 
 ## Citation File Format (`CITATION.cff`)
-To use citation metadata, you can include the following `CITATION.cff` file in your repository:
-
-```yaml
 cff-version: 1.2.0
 message: "If you use this work, please cite the following paper."
 authors:
@@ -44,12 +41,6 @@ If you are using LaTeX, you can cite this work using the following BibTeX entry:
 }
 
 
-### **What This Does:**
-✅ Everything is properly formatted in **Markdown**.  
-✅ The **SSRN link is clickable**.  
-✅ The **CITATION.cff** and **BibTeX** entries are separated clearly.  
-
-Just paste this into your `README.md` file on GitHub, and it will display correctly. Let me know if you need any modifications! 🚀
 
 
 
