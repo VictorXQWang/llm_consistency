@@ -19,6 +19,8 @@ Available at SSRN: [https://ssrn.com/abstract=5189069](https://ssrn.com/abstract
 ---
 
 ## Citation File Format (`CITATION.cff`)
+To use citation metadata, you can include the following `CITATION.cff` file in your repository:
+
 ```yaml
 cff-version: 1.2.0
 message: "If you use this work, please cite the following paper."
@@ -28,6 +30,7 @@ authors:
 title: "Assessing Consistency and Reproducibility in the Outputs of Large Language Models: Evidence Across Diverse Finance and Accounting Tasks"
 date-released: "2025-03-22"
 url: "https://ssrn.com/abstract=5189069"
+
 
 BibTeX Citation
 If you are using LaTeX, you can cite this work using the following BibTeX entry:
