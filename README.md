@@ -1,6 +1,6 @@
 ## Assessing Consistency and Reproducibility in the Outputs of Large Language Models: Evidence Across Diverse Finance and Accounting Tasks
 
-https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5189069
+##### https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5189069
 
 ### Authors: Julian Junyan Wang (University of Oxford) and Victor Xiaoqi Wang (California State University Long Beach) 
 
@@ -8,7 +8,7 @@ Abstract: This study provides the first comprehensive assessment of consistency 
 
 #### Keywords: Generative AI (GenAI), Large Language Models (LLMs), ChatGPT, Reproducibility, G-hacking
 
-# Citation
+## Citation
 
 If you use this work, please cite the following paper:
 
