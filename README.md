@@ -12,18 +12,20 @@ Abstract: This study provides the first comprehensive assessment of consistency 
 
 If you use this work, please cite the following paper:
 
-**Wang, Julian and Wang, Victor Xiaoqi (2025).**  
+**Wang, Julian Junyan and Wang, Victor Xiaoqi (2025).**  
 *"Assessing Consistency and Reproducibility in the Outputs of Large Language Models: Evidence Across Diverse Finance and Accounting Tasks."*  
 Available at SSRN: [https://ssrn.com/abstract=5189069](https://ssrn.com/abstract=5189069)
 
 ---
 
 ## Citation File Format (`CITATION.cff`)
+To use citation metadata, you can include the following `CITATION.cff` file in your repository:
+
+```yaml
 cff-version: 1.2.0
 message: "If you use this work, please cite the following paper."
 authors:
-  - name: "Julian Wang"
-    orcid: "0000-0000-0000-0000"  # (if available)
+  - name: "Julian Junyan Wang"
   - name: "Victor Xiaoqi Wang"
 title: "Assessing Consistency and Reproducibility in the Outputs of Large Language Models: Evidence Across Diverse Finance and Accounting Tasks"
 date-released: "2025-03-22"
@@ -33,7 +35,7 @@ BibTeX Citation
 If you are using LaTeX, you can cite this work using the following BibTeX entry:
 
 @article{wang2025assessing,
-  author = {Wang, Julian and Wang, Victor Xiaoqi},
+  author = {Wang, Julian Junyan and Wang, Victor Xiaoqi},
   title = {Assessing Consistency and Reproducibility in the Outputs of Large Language Models: Evidence Across Diverse Finance and Accounting Tasks},
   year = {2025},
   journal = {SSRN},
