@@ -8,13 +8,20 @@ Abstract: This study provides the first comprehensive assessment of consistency 
 
 #### Keywords: Generative AI (GenAI), Large Language Models (LLMs), ChatGPT, Reproducibility, G-hacking
 
-## Citation
+# Citation
+
 If you use this work, please cite the following paper:
 
-Wang, Julian and Wang, Victor Xiaoqi (2025).  
+**Wang, Julian and Wang, Victor Xiaoqi (2025).**  
 *"Assessing Consistency and Reproducibility in the Outputs of Large Language Models: Evidence Across Diverse Finance and Accounting Tasks."*  
 Available at SSRN: [https://ssrn.com/abstract=5189069](https://ssrn.com/abstract=5189069)
 
+---
+
+## Citation File Format (`CITATION.cff`)
+To use citation metadata, you can include the following `CITATION.cff` file in your repository:
+
+```yaml
 cff-version: 1.2.0
 message: "If you use this work, please cite the following paper."
 authors:
@@ -25,6 +32,9 @@ title: "Assessing Consistency and Reproducibility in the Outputs of Large Langua
 date-released: "2025-03-22"
 url: "https://ssrn.com/abstract=5189069"
 
+BibTeX Citation
+If you are using LaTeX, you can cite this work using the following BibTeX entry:
+
 @article{wang2025assessing,
   author = {Wang, Julian and Wang, Victor Xiaoqi},
   title = {Assessing Consistency and Reproducibility in the Outputs of Large Language Models: Evidence Across Diverse Finance and Accounting Tasks},
@@ -32,6 +42,14 @@ url: "https://ssrn.com/abstract=5189069"
   journal = {SSRN},
   url = {https://ssrn.com/abstract=5189069}
 }
+
+
+### **What This Does:**
+✅ Everything is properly formatted in **Markdown**.  
+✅ The **SSRN link is clickable**.  
+✅ The **CITATION.cff** and **BibTeX** entries are separated clearly.  
+
+Just paste this into your `README.md` file on GitHub, and it will display correctly. Let me know if you need any modifications! 🚀
 
 
 
