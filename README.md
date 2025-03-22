@@ -19,8 +19,6 @@ Available at SSRN: [https://ssrn.com/abstract=5189069](https://ssrn.com/abstract
 ---
 
 ## Citation File Format (`CITATION.cff`)
-To use citation metadata, you can include the following `CITATION.cff` file in your repository:
-
 ```yaml
 cff-version: 1.2.0
 message: "If you use this work, please cite the following paper."
