@@ -1,4 +1,4 @@
-Assessing Consistency and Reproducibility in the Outputs of Large Language Models: Evidence Across Diverse Finance and Accounting Tasks
+# Assessing Consistency and Reproducibility in the Outputs of Large Language Models: Evidence Across Diverse Finance and Accounting Tasks
 
 https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5189069
 
